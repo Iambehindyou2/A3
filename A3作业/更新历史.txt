@@ -1,0 +1,12 @@
+Notification History
+Hi Everyone! This will be used for notifications on things that could be working on the scaffold.
+
+14:40,30/4/2024 - New pkgmake has been distributed, chunk calculation was unfortunately flipped in the originally distributed version
+
+23:43,29/4/2024 - Spec was updated to include new FETCH command optional parameter 
+
+22:30,29/4/2024 - Vote on new fetch command parameter due to discussion on Ed. Vote was 3:1 in support for new parameter.
+
+19:55,29/4/2024 - Makefile was converted incorrectly on Ed, the tabs/spaces issue has been fixed - Please reset the scaffold
+
+17:00,29/4/2024 - Scaffold is open now!
